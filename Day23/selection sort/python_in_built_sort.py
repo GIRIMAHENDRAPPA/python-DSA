@@ -17,4 +17,4 @@ students.sort(key=lambda x: x[1]) # sort by marks
 data = [{"name":"A","age":22},{"name":"B","age":20}]
 data.sort(key=lambda x: x["age"])
 
-print(new_arr)
+print("new_arr:",new_arr)
