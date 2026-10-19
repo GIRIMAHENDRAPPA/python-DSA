@@ -9,4 +9,3 @@ def fibonacci(n, dp={0:0, 1:1}):
 if __name__ == "__main__":
     print("Factorial of 5:", factorial(5))
     print("Fibonacci 10:",fibonacci(10))
-    
