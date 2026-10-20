@@ -1,2 +1,2 @@
-# python-placement-60-days
+# python-DSA
 python DSA for placements
